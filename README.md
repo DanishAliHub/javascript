@@ -1,2 +1,1 @@
-# javascript
-starting of java script
+it is a potfolio assignment by using tailwind css
